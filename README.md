@@ -2,7 +2,7 @@
 #### Yapay Zeka | AI
 ![Yapay Zeka | AI](https://i.hizliresim.com/qirevkc.png)
 
-Merhaba, 17 yaşındayım. Yapay zeka ile web siteleri ve programlar geliştirmeye ve test etmeye ilgi duyuyorum.
+Merhaba, 18 yaşındayım. Yapay zeka ile web siteleri ve programlar geliştirmeye ve test etmeye ilgi duyuyorum.
 
 Skills: HTML / CSS / LUA
 
